@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+
+}
+main{
+    margin: auto;
+    width: 85%;
+    border-radius: 20px;
+    padding-top: 15px;
+}
